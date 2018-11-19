@@ -1,0 +1,7 @@
+{
+    "vscode-janus-debug.uploadOnSave": [
+        "front",
+        "validaciones3"
+    ],
+    "git.ignoreLimitWarning": true
+}
